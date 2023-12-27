@@ -13,5 +13,5 @@ python app.py
 python app\ version2.py
 ```
 
-**Check the mnist_model.py to see how I used CNN to train the model and got the weight.
-**
+Check the mnist_model.py to see how I used CNN to train the model and got the weight.
+
